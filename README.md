@@ -88,7 +88,7 @@ This project was developed as a final year engineering project. It uses an ESP32
 
 ## 🎥 Demo Video
 
-[![Watch the Demo](images/demo_thumbnail.png)](PASTE_YOUR_YOUTUBE_LINK_HERE)
+[![Watch the Demo](images/demo_thumbnail.png)](https://youtu.be/XiOYk0KeOU4?si=rPxZbZ2SSHCqMgtX)
 
 Click the thumbnail above to watch the full project demo on YouTube.
 
@@ -96,7 +96,7 @@ Click the thumbnail above to watch the full project demo on YouTube.
 
 ## 📄 Project Report & Presentation
 
-- 📘 [Project Report (PDF)](Project_Report.pdf)
+- 📘 [Project Report (PDF)]()
 - 📊 [Project Presentation (PPTX)](Project_Presentation.pptx)
 
 ---
