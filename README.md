@@ -25,7 +25,7 @@ This project was developed as a final year engineering project. It uses an ESP32
 
 ## 🧩 System Architecture
 
-![Block Diagram](<img width="379" height="356" alt="blockdiagram" src="https://github.com/user-attachments/assets/087a2d36-4f03-4297-b0f7-2bd0397e39b3" />
+![Block Diagram](modelpic.png
 )
 
 > Replace `block_diagram.png` with your actual block/architecture diagram filename once uploaded.
@@ -49,7 +49,7 @@ This project was developed as a final year engineering project. It uses an ESP32
 
 ## ⚙️ Circuit Diagram
 
-![Circuit Diagram](modelpic.png)
+![Circuit Diagram]()
 
 ---
 
@@ -81,7 +81,7 @@ This project was developed as a final year engineering project. It uses an ESP32
 
 | Dashboard | SOS Alert |
 |---|---|
-| ![Dashboard](faceemotiondetection.jpeg) | ![SOS Alert](cloudstorage.png) |
+| ![Dashboard](faceemotiondetection.jpeg) | ![SOS Alert](cloudstorage.png) |![SMS alert](sms.png)
 
 > Update the image filenames above to exactly match what you upload to the `images/` folder.
 
