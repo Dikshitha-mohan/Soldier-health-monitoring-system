@@ -81,7 +81,7 @@ This project was developed as a final year engineering project. It uses an ESP32
 
 | Dashboard | SOS Alert |
 |---|---|
-| ![Dashboard](faceemotiondetection.jpeg) | ![SOS Alert](cloudstorage.png) |![SMS alert](sms.png)
+| ![Dashboard](faceemotiondetection.jpeg) |  |![SMS alert](sms.png)
 
 > Update the image filenames above to exactly match what you upload to the `images/` folder.
 
