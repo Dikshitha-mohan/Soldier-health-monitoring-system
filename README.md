@@ -49,7 +49,7 @@ This project was developed as a final year engineering project. It uses an ESP32
 
 ## ⚙️ Circuit Diagram
 
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](modelpic.png)
 
 ---
 
@@ -77,11 +77,11 @@ This project was developed as a final year engineering project. It uses an ESP32
 
 | Block Diagram | Circuit Build |
 |---|---|
-| ![Block Diagram](images/block_diagram.png) | ![Circuit Build](images/circuit_build.png) |
+| ![Block Diagram](blockdiagram.png) | ![Circuit Build]() |
 
 | Dashboard | SOS Alert |
 |---|---|
-| ![Dashboard](images/dashboard.png) | ![SOS Alert](images/sos_alert.png) |
+| ![Dashboard](faceemotiondetection.jpeg) | ![SOS Alert](cloudstorage.png) |
 
 > Update the image filenames above to exactly match what you upload to the `images/` folder.
 
