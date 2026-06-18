@@ -97,8 +97,8 @@ Click the thumbnail above to watch the full project demo on YouTube.
 
 ## 📄 Project Report & Presentation
 
-- 📘 [Project Report (PDF)]()
-- 📊 [Project Presentation (PPTX)](Project_Presentation.pptx)
+- 📘 [Project Report (PDF)](projectreport.pdf)
+- 📊 [Project Presentation (PPTX)](onelastfinal.pptx)
 
 ---
 
